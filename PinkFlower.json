@@ -1,0 +1,43 @@
+{
+  "base_canvas": {
+    "width": 1080,
+    "height": 1920,
+    "background_image": "background_template.png",
+    "note": "所有bound坐标、尺寸、base_fontSize、base_lineHeight均基于本基准画布像素，前端根据容器尺寸计算scale等比例缩放渲染"
+  },
+  "text_layers": [
+    {
+      "layer_id": "title_textbox",
+      "content": "沈晚凝",
+      "bound": {
+        "x": 315,
+        "y": 140,
+        "width": 450,
+        "height": 140
+      },
+      "style": {
+        "base_fontSize": 104,
+        "fontWeight": "bold",
+        "color": "#662233",
+        "textAlign": "center",
+        "base_lineHeight": 122
+      }
+    },
+    {
+      "layer_id": "main_textbox",
+      "content": "——基本情况——\n女 1998年生 168cm/50kg 三围 84/62/88\n鞋码 38 黑发/棕瞳 普通话一级甲等\n北京话/东北话 英语 IELTS 6.5（可英文对白）\n\n——影视作品——\n《夜航船》 饰演: 林姐 电影 2025\n《归途列车》饰演: 乘务员 电视剧 2024\n《长安薄暮》饰演: 阿鹊 舞台剧 2025\n《胡同口》 饰演: 母亲 话剧 2023\n\n——教育经历——\n北京电影学院·表演学士 2020—2024\n刘天池表演工坊·进阶班 2023\n台词私教·季诚工作室 播音矫正 2022\n现代舞训练·X-Studio 2021—至今\n\n——技能特长——\n舞蹈: 现代舞（基础+成品舞）、爵士（初级）\n运动: 游泳（标准泳姿）、跆拳道（红带）\n驾照: C1, 无恐高, 可吊威亚\n其他: 钢琴（业余八级）、书法（楷书可出镜）\n\n——联系方式——\n电话 13812345678 | 微信: shennw_act\n现居: 北京 · 可随组",
+      "bound": {
+        "x": 90,
+        "y": 330,
+        "width": 900,
+        "height": 1570
+      },
+      "style": {
+        "base_fontSize": 38,
+        "color": "#222222",
+        "textAlign": "left",
+        "base_lineHeight": 54
+      }
+    }
+  ]
+}
